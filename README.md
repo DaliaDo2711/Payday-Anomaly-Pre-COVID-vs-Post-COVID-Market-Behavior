@@ -133,15 +133,5 @@ Short-term anomalies contribute to long-term performance differences, but broade
 
 ---
 
-## How to Run (Google Colab)
-This project is designed to be run in Google Colab.
-
-Steps:
-1. Open the notebook file
-2. Run all cells from top to bottom
-3. All data is downloaded programmatically using `yfinance`
-
----
-
 ## Author
 **Dalia Do**
